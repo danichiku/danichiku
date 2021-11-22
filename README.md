@@ -1,7 +1,7 @@
 ### Olá eu sou a Daniela (Dani) 🙂
 
 
-- 🔭 Atualmente estou cursando a gradução de  Análise e Desenvolvimento de Sistemas e busco a  cada dia aprender e me aprofundar mais nesta maravilhosa área de TI. 😍
+- 🔭 Atualmente estou cursando  Análise e Desenvolvimento de Sistemas e busco a cada dia aprender e me aprofundar mais nesta maravilhosa área de TI. 😍
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
