@@ -1,7 +1,7 @@
 ### Olá eu sou a Daniela (Dani) 🙂
 
 
-- 🔭Desde de criança sempre gostei da área de Tecnologia da Informação, nesta época eu não tinha o entendimento de que isso poderia se tornar uma carreira de trabalho, para mim era mais como um lazer.  Em minha formação acadêmica concluí a graduação de Licenciatura em Pedagogia e logo realizei uma Pós-graduação em mídias na Educação. Realizei também alguns cursos complementares como Ambiente Windows e Pacote Microsoft Office, Linux, Hardware e Redes, Design & Web.  Hoje estou aprendendo Python e Java e  minha paixão pela TI só aumentou, atualmente estou cursando Análise e Desenvolvimento de Sistemas e busco a  cada dia aprender e me aprofundar mais nesta maravilhosa área de TI. 😍
+- 🔭 Atualmente estou cursando a gradução de  Análise e Desenvolvimento de Sistemas e busco a  cada dia aprender e me aprofundar mais nesta maravilhosa área de TI. 😍
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
